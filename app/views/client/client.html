@@ -1,0 +1,164 @@
+<!-- BEGIN PAGE BREADCRUMB -->
+<ul class="page-breadcrumb breadcrumb hide">
+    <li>
+        <a href="#">Home</a><i class="fa fa-circle"></i>
+    </li>
+    <li class="active">
+        Client Information
+    </li>
+</ul>
+<!-- END PAGE BREADCRUMB -->
+<!-- BEGIN MAIN CONTENT -->
+<div ng-controller="ClientInformationController" class="margin-top-10">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="portlet box blue-soft">
+                <div class="portlet-title">
+                    <div class="caption caption-md">
+                        <span class="caption-subject bold uppercase">Records</span>
+                    </div>
+                    <div class="actions">
+                        <a href="#" class="btn default yellow-stripe" data-target="#modal-add_client_single" data-toggle="modal">
+                            <i class="fa fa-plus"></i><span class="hidden-480"> New Client </span>
+                        </a>
+                        <div class="btn-group">
+                            <a class="btn default yellow-stripe" href="#" data-toggle="dropdown">
+                                <i class="fa fa-share"></i><span class="hidden-480"> Tools </span>
+                                <i class="fa fa-angle-down"></i>
+                            </a>
+                            <ul class="dropdown-menu pull-right">
+                                <li>
+                                    <a href="#">Export to Excel </a>
+                                </li>
+                                <li>
+                                    <a href="#">Export to CSV </a>
+                                </li>
+                                <li>
+                                    <a href="#">Export to XML </a>
+                                </li>
+                                <li class="divider">
+                                </li>
+                                <li>
+                                    <a href="#">Print Invoices </a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="portlet-body">
+                    <table class="table table-striped table-bordered table-hover" id="tbl-client_list">
+
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="modal-add_client_single" class="modal fade" tabindex="-1" role="dialog" aria-hidden="true" data-backdrop="static" data-keyboard="false" >
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                    <h4 class="modal-title client-modal">Single Client Enrollment</h4>
+                </div>
+                <div class="modal-body custom-modal-height">
+                    <div class="row">
+                        <div class="form-group col-md-4">
+                            <label for="inp-company_name">Company Name</label> <span class="required"> * </span>
+                            <input type="text" class="form-control" id="inp-company_name" placeholder="Company Name">
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label for="inp-company_owner">Company Owner</label> <span class="required"> * </span>
+                            <input type="text" class="form-control" id="inp-company_owner" placeholder="Company Owner">
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label for="sel-business_style">Business Style</label> <span class="required"> * </span>
+                            <select class="form-control" id="sel-business_style">
+
+                            </select>
+                        </div>
+                    </div>
+                    <hr/>
+                    <div class="row">
+                        <div class="form-group col-md-4">
+                            <label for="inp-email_add">Email </label> <span class="required"> * </span>
+                            <input type="text" class="form-control" id="inp-email_add" placeholder="Email">
+                        </div>
+
+                        <div class="form-group col-md-4">
+                            <label for="inp-mobile_no">Mobile No.</label> <span class="required"> * </span>
+                            <input type="text" class="form-control mobile_no" id="inp-mobile_no" placeholder="Mobile No.">
+                        </div>
+                        <div class="form-group col-md-4">
+                            <label for="inp-tel_no">Tel. No.</label> <span class="required"> * </span>
+                            <input type="email" class="form-control" id="inp-tel_no" placeholder="Tel. No.">
+                        </div>
+                    </div>
+                    <hr/>
+                    <div class="row">
+                        <div class="form-group col-md-3">
+                            <label for="inp-streetno_bldg">Street No./Bldg.</label>
+                            <input type="text" class="form-control" id="inp-streetno_bldg" placeholder="Street No./Bldg.">
+                        </div>
+                        <div class="form-group col-md-3">
+                            <label for="inp-barangay">Barangay</label> <span class="required"> * </span>
+                            <input type="text" class="form-control mobile_no" id="inp-barangay" placeholder="Barangay">
+                        </div>
+                        <div class="form-group col-md-3">
+                            <label for="inp-towncity">Town City</label> <span class="required"> * </span>
+                            <input type="email" class="form-control" id="inp-towncity" placeholder="Town City">
+                        </div>
+                        <div class="form-group col-md-3">
+                            <label for="inp-province">Province</label> <span class="required"> * </span>
+                            <input type="email" class="form-control" id="inp-province" placeholder="Province">
+                        </div>
+                    </div>
+                    <hr/>
+                    <div class="row">
+                        <div class="form-group col-md-4">
+                            <label for="sel-ass_fsa">Assigned FSA</label>
+                            <select class="form-control" id="sel-ass_fsa">
+
+                            </select>
+                        </div>
+                        <div class="form-group col-md-8">
+                            <label for="inp-remarks">Remarks</label>
+                            <input type="text" class="form-control mobile_no" id="inp-remarks" placeholder="Remarks">
+                        </div>
+                    </div>
+
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                    <button id="btn-add_client" type="submit" class="btn btn-primary ladda-button" data-style="zoom-in"><span class="ladda-label"></span><i class="fa fa-check"></i> Save</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</div>
+<!-- END MAIN CONTENT -->
+<!-- BEGIN MAIN JS & CSS -->
+<script>
+    // Example starter JavaScript for disabling form submissions if there are invalid fields
+    (function() {
+        'use strict';
+        window.addEventListener('load', function() {
+            // Fetch all the forms we want to apply custom Bootstrap validation styles to
+            var forms = document.getElementsByClassName('needs-validation');
+            // Loop over them and prevent submission
+            var validation = Array.prototype.filter.call(forms, function(form) {
+                form.addEventListener('submit', function(event) {
+                    if (form.checkValidity() === false) {
+                        event.preventDefault();
+                        event.stopPropagation();
+                    }
+                    form.classList.add('was-validated');
+                }, false);
+            });
+        }, false);
+    })();
+</script>
+<!-- BEGIN MAIN JS & CSS -->

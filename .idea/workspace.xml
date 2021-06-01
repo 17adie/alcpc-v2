@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="491347bf-a61e-481a-b1d6-3c3fc89dded5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../test2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/app/ajax/api/get_tbl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/app/ajax/df3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/app/ajax/df4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/app/ajax/fetch_data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test2/app/js/controllers/UserController.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2/ajax/db.php" beforeDir="false" afterPath="$PROJECT_DIR$/../test2/app/ajax/db.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2/ajax/df.php" beforeDir="false" afterPath="$PROJECT_DIR$/../test2/app/ajax/df.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2/ajax/df2.php" beforeDir="false" afterPath="$PROJECT_DIR$/../test2/app/ajax/df2.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../test2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2/js/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../test2/app/js/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2/js/controllers/UserController.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2/js/jquery-3.3.1.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/../test2/app/js/jquery-3.3.1.min.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - @localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - @localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - @localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="alcpc_db: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - @localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="alcpc_db: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - @localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="alcpc_db: schema" type="ebfa3cd1:MariaImplModel$Schema" />
+        <item name="routines" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>custom-modal-height</find>
+      <find>select2</find>
+      <find>fsa_list</find>
+      <find>business_style</find>
+      <find>busi</find>
+      <find>hide</find>
+      <find>client</find>
+      <find>fsa</find>
+      <find>btn-view_cpt</find>
+      <find>fa-clock-o</find>
+      <find>data-id_num</find>
+      <find>btn-edit</find>
+      <find>add_client</find>
+      <find>client-modal</find>
+      <find>new_client</find>
+      <find>modal</find>
+      <find>change_status</find>
+      <find>resp[i].c_status</find>
+      <find>app.a</find>
+      <find>get_list</find>
+      <find>api.</find>
+      <find>img</find>
+      <find>global/css</find>
+      <find>amchar</find>
+      <find>app.</find>
+      <find>pages</find>
+      <find>tbl-client_list</find>
+      <find>swee</find>
+      <find>list</find>
+      <find>get_da</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\xampp\htdocs\alcpc-v2\assets\global\plugins\select2</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../test2" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/views/todo.html" />
+        <option value="$PROJECT_DIR$/app/views/profile/dashboard.html" />
+        <option value="$PROJECT_DIR$/app/js/controllers/GeneralPageController.js" />
+        <option value="$PROJECT_DIR$/app/js/controllers/TodoController.js" />
+        <option value="$PROJECT_DIR$/app/js/controllers/UISelectController.js" />
+        <option value="$PROJECT_DIR$/app/js/controllers/UserProfileController.js" />
+        <option value="$PROJECT_DIR$/app/tpl/footer.html" />
+        <option value="$PROJECT_DIR$/app/tpl/sidebar.html" />
+        <option value="$PROJECT_DIR$/app/js/controllers/DashboardController.js" />
+        <option value="$PROJECT_DIR$/app/views/dashboard.html" />
+        <option value="$PROJECT_DIR$/app/ajax/api/get_table.php" />
+        <option value="$PROJECT_DIR$/app/ajax/db.php" />
+        <option value="$PROJECT_DIR$/../test2/app/js/controllers/UserController.js" />
+        <option value="$PROJECT_DIR$/assets/global/plugins/bootstrap-sweetalert/sweetalert.css" />
+        <option value="$PROJECT_DIR$/app/ajax/api/add.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/30958a33-3860-4a4a-97ea-9d6d9125fed5/console.sql" />
+        <option value="$PROJECT_DIR$/app/ajax/api/get_list.php" />
+        <option value="$PROJECT_DIR$/assets/global/plugins/select2/css/select2.css" />
+        <option value="$PROJECT_DIR$/app/js/directives.js" />
+        <option value="$PROJECT_DIR$/app/index.html" />
+        <option value="$PROJECT_DIR$/app/tpl/page-head.html" />
+        <option value="$PROJECT_DIR$/app/ajax/api/get_data.php" />
+        <option value="$PROJECT_DIR$/assets/admin/layout4/css/custom.css" />
+        <option value="$PROJECT_DIR$/app/ajax/api/df.php" />
+        <option value="$PROJECT_DIR$/app/views/client/client.html" />
+        <option value="$PROJECT_DIR$/app/ajax/api/add_update.php" />
+        <option value="$PROJECT_DIR$/app/ajax/api/crud.php" />
+        <option value="$PROJECT_DIR$/app/js/controllers/client/ClientInformationController.js" />
+        <option value="$PROJECT_DIR$/app/js/app.js" />
+        <option value="$PROJECT_DIR$/app/tpl/header.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1066" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="alcpc-v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="alcpc-v2" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/global/plugins" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\alcpc-v2\app\img" />
+      <recent name="C:\xampp\htdocs\alcpc-v2\assets\global\plugins" />
+      <recent name="C:\xampp\htdocs\alcpc-v2\assets\admin" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\alcpc-v2\assets\global\plugins" />
+      <recent name="C:\xampp\htdocs\alcpc-v2\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="491347bf-a61e-481a-b1d6-3c3fc89dded5" name="Default Changelist" comment="" />
+      <created>1620458250059</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620458250059</updated>
+      <workItem from="1620458251212" duration="13319000" />
+      <workItem from="1620561505878" duration="11727000" />
+      <workItem from="1620653787774" duration="6553000" />
+      <workItem from="1620701769156" duration="417000" />
+      <workItem from="1620728722462" duration="8268000" />
+      <workItem from="1620832679911" duration="352000" />
+      <workItem from="1620833096883" duration="95000" />
+      <workItem from="1620897073551" duration="13478000" />
+      <workItem from="1620991022974" duration="1198000" />
+      <workItem from="1621011840016" duration="68000" />
+      <workItem from="1621251769458" duration="3347000" />
+      <workItem from="1621261423056" duration="3029000" />
+      <workItem from="1621330381131" duration="275000" />
+      <workItem from="1621522267279" duration="1741000" />
+      <workItem from="1621604274844" duration="3437000" />
+      <workItem from="1621656163917" duration="2000" />
+      <workItem from="1621667122933" duration="14355000" />
+      <workItem from="1621698391633" duration="4016000" />
+      <workItem from="1621763970150" duration="7961000" />
+      <workItem from="1621862605431" duration="3492000" />
+      <workItem from="1621948289276" duration="2475000" />
+      <workItem from="1621956504397" duration="3302000" />
+      <workItem from="1622029868486" duration="6383000" />
+      <workItem from="1622123449982" duration="6278000" />
+      <workItem from="1622253193584" duration="16301000" />
+      <workItem from="1622275039826" duration="708000" />
+      <workItem from="1622277845220" duration="6418000" />
+      <workItem from="1622527405636" duration="1220000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="140215000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.17132115" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3296582" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3296582" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.3296582" />
+      <window_info anchor="right" id="Database" order="0" weight="0.21482277" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="4" weight="0.32975295" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16487648" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" weight="0.3296582" />
+      <window_info anchor="bottom" id="Version Control" order="3" />
+      <window_info anchor="bottom" id="Docker" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.3296582" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Database Console" order="12" weight="0.3296582" />
+      <window_info anchor="right" id="Database" order="0" weight="0.21482277" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="4" weight="0.32975295" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../test2/app/ajax/df3.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test2/app/ajax/fetch_data.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test2/app/ajax/df4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="41" lean-forward="true" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/30958a33-3860-4a4a-97ea-9d6d9125fed5/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret column="14" selection-start-column="3" selection-end-column="14" />
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="17" />
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="18" />
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="16" />
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="18" />
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="13" />
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="13" />
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="13" />
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="11" />
+          <caret line="9" column="14" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="14" />
+          <caret line="10" column="11" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="11" />
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="11" />
+          <caret line="12" column="12" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="12" />
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="14" />
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="12" />
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///56e46f6/30958a33-3860-4a4a-97ea-9d6d9125fed5/schema/alcpc_db/routine/sp-add_client@(varchar(100),varchar(100),varchar(100),varchar(100),varchar(10),varchar(50),varchar(100),varchar(1),date,int(2),varchar(1),varchar(100),varchar(150),varchar(4),varchar(4),varchar(5),varchar(6),varchar(6),varchar(10),varchar(10),varchar(50),varchar(50),text,text,text,varchar(10),varchar(10),varchar(10),varchar(100),varchar(100),text,text,varchar(100),varchar(50),varchar(50),varchar(100),varchar(100),tinyint(1),varchar(1),varchar(30),int(1),varchar(10),text,tinyint(4),datetime,text,datetime,varchar(50),tinyint(1),datetime,tinyint(1),datetime,datetime,datetime,text,varchar(50),varchar(50),datetime,datetime,tinyint(1),tinyint(1)).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-289">
+          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://30958a33-3860-4a4a-97ea-9d6d9125fed5/schema/alcpc_db/table/client_tbl">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state projectRestartId="8452dd45-35e1-485f-bd27-471391ee320c">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbSrc:///56e46f6/30958a33-3860-4a4a-97ea-9d6d9125fed5/schema/alcpc_db/routine/sp-add_client@(varchar(100),varchar(100),varchar(100),varchar(100),varchar(100),varchar(100),varchar(100),varchar(50),varchar(50),varchar(50),varchar(50),varchar(50),text,varchar(50)).sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="12" lean-forward="true" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test2/app/ajax/df.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/global/plugins/select2/select2-bootstrap.css" />
+    <entry file="file://$PROJECT_DIR$/assets/global/plugins/select2/select2.css" />
+    <entry file="file://$PROJECT_DIR$/assets/global/plugins/select2/css/select2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="58" column="18" lean-forward="true" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/global/plugins/select2/LICENSE" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="63" column="14" selection-start-line="63" selection-start-column="14" selection-end-line="63" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/global/plugins/select2/js/i18n/ar.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/controllers/DashboardController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/controllers/UISelectController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="212" column="78" lean-forward="true" selection-start-line="212" selection-start-column="78" selection-end-line="212" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/dropdowns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="515" column="30" lean-forward="true" selection-start-line="515" selection-start-column="30" selection-end-line="515" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/global/css/components.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21488">
+          <caret line="1264" column="3" selection-start-line="1264" selection-start-column="3" selection-end-line="1264" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/global/css/components-md.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/global/plugins/bootstrap/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/global/plugins/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test2/assets/layouts/layout3/scripts/layout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="82" selection-start-line="13" selection-start-column="82" selection-end-line="13" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/directives.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="68" selection-start-line="14" selection-start-column="68" selection-end-line="14" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/global/plugins/bootstrap/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="36" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="25" column="16" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test2/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test2/app/js/controllers/UserController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="574">
+          <caret line="176" column="37" lean-forward="true" selection-start-line="176" selection-start-column="8" selection-end-line="176" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/admin/layout4/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test2/app/ajax/df2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/controllers/TodoController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/controllers/GeneralPageController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ajax/api/df.php" />
+    <entry file="file://$PROJECT_DIR$/app/views/dashboard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="1646" column="97" selection-start-line="1646" selection-start-column="94" selection-end-line="1646" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tpl/footer.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tpl/page-head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="3" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tpl/sidebar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/global/components/_statistic-blocks.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="142" column="5" selection-start-line="142" selection-start-column="5" selection-end-line="142" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/todo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/global/plugins/bootstrap-sweetalert/sweetalert.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20077">
+          <caret line="1181" column="131" selection-start-line="1181" selection-start-column="127" selection-end-line="1181" selection-end-column="131" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/global/plugins/bootstrap-sweetalert/sweetalert.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1581" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/client/client.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="38" column="41" selection-start-line="38" selection-start-column="41" selection-end-line="38" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ajax/api/add_update.php" />
+    <entry file="file://$PROJECT_DIR$/app/ajax/api/get_data.php" />
+    <entry file="file://$PROJECT_DIR$/app/ajax/api/get_list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ajax/api/get_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="37" column="90" selection-start-line="37" selection-start-column="79" selection-end-line="37" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/img/arms-logo.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/controllers/client/ClientInformationController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="288" column="71" selection-start-line="288" selection-start-column="71" selection-end-line="288" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="69" selection-start-line="36" selection-start-column="69" selection-end-line="36" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tpl/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="50" lean-forward="true" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/ajax/api/crud.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="88" column="22" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

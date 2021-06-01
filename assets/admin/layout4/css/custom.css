@@ -1,0 +1,17 @@
+
+.custom-error {
+    border: 1px solid red;
+}
+
+.swal {
+    z-index: 9999;
+}
+
+.select2-container{
+    z-index:100000;
+}
+
+div.custom-modal-height {
+    height: 60vh !important;
+    overflow-y: auto;
+}
